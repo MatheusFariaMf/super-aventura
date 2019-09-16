@@ -1,6 +1,3 @@
-# Git Course
+#Git-Course
 
-
-Este é um repositório teste para ensinar como o Git funciona
-
-Esta é uma alteração de teste
+Este é um curso de Git e GitHub
